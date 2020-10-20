@@ -1,0 +1,14 @@
+#+TITLE: Docker in docker
+#+TAGS: cryptokasten, docker
+#+PROPERTY: header-args :session *shell docker-in-docker* :results silent raw
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
+Docker image for running Docker inside Docker.
+
+** General info
+
+- Docker Hub: https://hub.docker.com/_/docker/
+
+- Github: https://github.com/docker-library/docker/tree/master/19.03/dind
